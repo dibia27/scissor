@@ -8,7 +8,8 @@
 
 This Webpage focuses more on the designs than the functionality and responsiveness
 
-For best user experience, i'll advice you use a web browser( preferably Chrome) to access this webpage
+For best user experience, I'll advice the use of a web browser on a PC ( preferably Chrome browser ) to access this webpage
+
 View With a zoom size of 100%.
 
 # Website
