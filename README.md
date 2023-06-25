@@ -4,7 +4,7 @@
  
  Developed with only HTML and CSS.
 
-# NotResponsive.
+# Not Responsive
 
 This Webpage focuses more on the designs than the functionality and responsiveness
 
