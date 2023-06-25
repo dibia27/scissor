@@ -10,7 +10,7 @@ This Webpage focuses more on the designs than the functionality and responsivene
 
 For best user experience, I'll advice the use of a web browser on a PC ( preferably Chrome browser ) to access this webpage
 
-View With a zoom size of 100%.
+View with a zoom size of 100%.
 
 # Website
 
